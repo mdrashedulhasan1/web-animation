@@ -1,0 +1,23 @@
+.outter{
+    width: 300px;
+    height: 300px;
+    border: 2px dashed red;
+    margin: 0 auto;
+}
+.inner{
+    width: 300px;
+    height: 300px;
+    border: 2px solid rgb(69, 212, 231);
+    margin: 0 auto;
+    /* Translate element in x-axis*/
+    /* transform: translate(50px); */
+    /* transform: translateX(-50%); */
+
+    /* Translate element in y-axis */
+    /* transform: translate(0,50px); */
+    /* transform:translateY(40px); */
+
+    /* Translate element in both axis */
+    /* transform: translate(50px, 100px); */
+
+}
